@@ -6,7 +6,6 @@ ETRI 의 한국어 BERT 모델은 해당 링크에서 서약서를 작성한 후
 ## Dataset
 [Naver sentiment movie corpus v1.0](https://github.com/e9t/nsmc)
 
-## 분류 모델
 ## Requirement
 - Python 3.7 
 - Pytorch == 1.5.0
@@ -15,3 +14,7 @@ ETRI 의 한국어 BERT 모델은 해당 링크에서 서약서를 작성한 후
 - botocore==1.12.67
 - requests==2.24.0
 - tqdm==4.50.2
+
+## Models
+
+## Results
