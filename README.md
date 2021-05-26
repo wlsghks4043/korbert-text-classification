@@ -16,5 +16,5 @@ ETRI 의 한국어 BERT 모델은 해당 링크에서 서약서를 작성한 후
 - tqdm==4.50.2
 
 ## Models
-![전체 모델 구조_6](https://user-images.githubusercontent.com/76151175/119645948-89e84700-be59-11eb-9680-888131d143a8.png)
+![전체 모델 구조_6](https://user-images.githubusercontent.com/76151175/119645948-89e84700-be59-11eb-9680-888131d143a8.png){: width="80%" height="80%"}
 ## Results
