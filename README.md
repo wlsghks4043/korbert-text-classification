@@ -19,6 +19,6 @@ ETRI 의 한국어 BERT 모델은 해당 링크에서 서약서를 작성한 후
 <p align="center"><img src="./image/전체 모델 구조.png"  width="80%" height="80%"></p>
 
 ## Results
-| Model | MLP [1] | CNN [2] | LSTM [3] | Bi-LSTM [4] |
+| Model | MLP | CNN | LSTM | Bi-LSTM |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | Accuracy |  |  |  |  |
